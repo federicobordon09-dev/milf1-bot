@@ -4,7 +4,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "install": "npm install",  // Este script se asegura de que las dependencias se instalen
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=20"  // Establece la versión mínima de Node.js que quieres usar
   },
   "keywords": [],
   "author": "",
