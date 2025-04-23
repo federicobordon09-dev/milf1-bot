@@ -3,6 +3,18 @@ const fs = require('fs');
 const path = require('path');
 const { Client, Collection, GatewayIntentBits, ActivityType } = require('discord.js');
 const conectarDB = require('./utils/database');
+const express = require('express')
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+
+app.get('/', (req, res) => {
+  res.send('MILF1 Bot está corriendo 🏎️');
+});
+
+app.listen(PORT, () => {
+  console.log(`🌐 Servidor web activo en el puerto ${PORT}`);
+});
 
 // Manejo de errores no controlados
 process.on('unhandledRejection', (error) => {
