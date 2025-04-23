@@ -1,16 +1,37 @@
-# 🚀 M.I.L.F1 - Man I Love F1
+# 🏁 M.I.L.F1 - Man I Love F1
 
-## 🏎️ Descripción del Proyecto
-**M.I.L.F1** es un bot de Discord interactivo de trivia con temática de **Fórmula 1**. El bot ofrece preguntas y respuestas sobre pilotos, equipos, circuitos y hechos generales de la F1. Es el compañero ideal para los fanáticos de la Fórmula 1 que desean poner a prueba su conocimiento.
+## Descripción
 
-## 🛠️ Tecnologías Utilizadas
-- **Node.js**: Para la ejecución del bot.
-- **discord.js**: Para interactuar con la API de Discord y crear el bot.
-- **MongoDB**: Para almacenar datos como preguntas y respuestas.
-- **Express**: Para crear un servidor web y permitir que el bot se mantenga en línea.
+**M.I.L.F1** es un bot de Discord interactivo con temática de **Fórmula 1**. Diseñado especialmente para fanáticos del automovilismo, este bot de trivia te desafía a responder preguntas sobre pilotos, equipos, circuitos y datos generales de la F1. ¡Una experiencia divertida y competitiva directamente desde tu servidor de Discord!
 
-## 📩 Contacto
+---
 
-📧 Email: zearostudio@gmail.com
+## Tecnologías utilizadas
 
-⚡ ¡Síguenos en nuestras redes sociales para estar al tanto de actualizaciones y noticias sobre el bot!
+- **Node.js**  
+- **discord.js**  
+- **MongoDB**  
+- **Express**
+
+---
+
+## Cómo contribuir
+
+¿Querés aportar ideas, funciones nuevas o correcciones? ¡Estás invitado a participar!  
+Podés hacerlo siguiendo estos pasos:
+
+1. Hacé un **fork** del repositorio  
+2. Creá una nueva rama con tus cambios  
+3. Abrí un **pull request** explicando tu propuesta  
+4. También podés dejar tus ideas abriendo un **issue**
+
+---
+
+## Contacto
+
+📧 **Email:** federicobordon09@gmail.com  
+🔗 **GitHub:** [Federico Bordon](https://github.com/federicobordon09-dev)
+
+---
+
+Desarrollado con pasión por Federico Bordon.
