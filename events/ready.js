@@ -25,7 +25,7 @@ module.exports = {
         .setTitle('📖 Tutorial - M.I.L.F1')
         .setColor(0x2B65EC)
         .setDescription(
-          '**¡Bienvenido al juego de preguntas sobre F1 y TC!**\n\n' +
+          '**¡Bienvenido al juego de preguntas y respuestas!**\n\n' +
           '**🎮 ¿Cómo jugar?**\n' +
           '• Las preguntas aparecerán debajo de este mensaje\n' +
           '• Selecciona la respuesta que crees correcta\n' +
